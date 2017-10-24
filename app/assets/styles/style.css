@@ -1,0 +1,13 @@
+.box {
+    border: 1px solid #d2d6de;
+    border-top-width: 3px;
+}
+
+.direct-chat-messages {
+    height: 400px;
+}
+
+.lockscreen-wrapper {
+    padding: 10px;
+    border-radius: 3px;
+}
